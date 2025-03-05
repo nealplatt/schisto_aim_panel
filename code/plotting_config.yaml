@@ -1,0 +1,86 @@
+species:
+  "S. haematobium":
+    color: "indianred"
+    label: "S. haematobium"
+    marker: "o"
+    italic: true  # Render this label in italics
+  f1:
+    color: "darkorchid"
+    label: "Sh x Sb F1 (Lab; Rey et al. 2021)"
+    marker: "s"
+    italic: false
+  "S. bovis":
+    color: "royalblue"
+    label: "S. bovis"
+    marker: "D"
+    italic: true
+  s_curassoni:
+    color: "gold"
+    label: "S. curassoni (Berger et al. 2022)"
+    marker: "^"
+    italic: true
+  sb_sc_hybrid:
+    color: "limegreen"
+    label: "Sb x Sc hybrids (Berger et al. 2022)"
+    marker: "v"
+    italic: false
+  s_margrebowiei:
+    color: "teal"
+    label: "S. margrebowiei"
+    marker: "X"
+    italic: true
+
+
+countries:
+  lab:
+    color: "cyan"
+    label: "Lab"
+    marker: "o"  # Circle marker
+  nigeria:
+    color: "green"
+    label: "Nigeria"
+    marker: "s"  # Square marker
+  sao_tome:
+    color: "blue"
+    label: "São Tomé"
+    marker: "D"  # Diamond marker
+  dr_congo:
+    color: "orange"
+    label: "DR Congo"
+    marker: "^"  # Upward triangle marker
+  zambia:
+    color: "purple"
+    label: "Zambia"
+    marker: "v"  # Downward triangle marker
+  senegal:
+    color: "red"
+    label: "Senegal"
+    marker: "P"  # Plus marker
+  cote_d_ivoire:
+    color: "yellow"
+    label: "Côte d'Ivoire"
+    marker: "X"  # Cross marker
+  uganda:
+    color: "brown"
+    label: "Uganda"
+    marker: "*"
+  angola:
+    color: "magenta"
+    label: "Angola"
+    marker: "h"  # Hexagon marker
+  madagascar:
+    color: "pink"
+    label: "Madagascar"
+    marker: "o"
+  namibia:
+    color: "grey"
+    label: "Namibia"
+    marker: "s"
+  zanzibar:
+    color: "lime"
+    label: "Zanzibar"
+    marker: "D"
+  swaziland:
+    color: "teal"
+    label: "Swaziland"
+    marker: "^"

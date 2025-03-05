@@ -1,1 +1,4 @@
 results/
+code/.ipynb_checkpoints/
+data/scan_snvs.vcf
+bin/
