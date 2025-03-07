@@ -24,7 +24,7 @@ species:
     label: "Sb x Sc hybrids (Berger et al. 2022)"
     marker: "v"
     italic: false
-  s_margrebowiei:
+  "S. margrebowiei":
     color: "teal"
     label: "S. margrebowiei"
     marker: "X"
