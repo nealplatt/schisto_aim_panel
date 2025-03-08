@@ -2,3 +2,6 @@ results/
 code/.ipynb_checkpoints/
 data/scan_snvs.vcf
 bin/
+data/.ipynb_checkpoints/
+data/scan_snvs.vcf.gz
+data/scan_snvs.vcf.gz.tbi
