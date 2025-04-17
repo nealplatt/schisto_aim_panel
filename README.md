@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/942922104.svg)](https://doi.org/10.5281/zenodo.15236800)
+
+
 # Efficient amplicon panels for evaluating hybridization in the <i>Schistosome haematobium</i> species group
 
 ---
